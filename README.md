@@ -1,4 +1,4 @@
-# 周维天（小天）· 杭州的 FDE
+# 周维天（小天说FDE）· 杭州的 FDE
 
 **杭州纬聆科技创始人。FDE（Forward Deployed Engineer，前置部署工程师）：帮企业把 AI 接进真实业务流程，直到结果能被验收。**
 
@@ -11,6 +11,7 @@
 |---|---|
 | 企业服务 | [willeai.cn](https://willeai.cn)（杭州纬聆科技有限公司，杭州上城区） |
 | 个人站 | [willeai.com](https://willeai.com)（小天说FDE · FDE 学习与实践） |
+| 我是谁 | [周维天是谁？](https://willeai.com/topics/zhou-weitian.html)（周维天 = 小天 = 小天说FDE，同一个人） |
 | 内容账号 | 小天说FDE（抖音、B站、小红书、视频号、快手）；公众号「维天说」 |
 
 ## 开源的 FDE 工具
@@ -19,3 +20,7 @@
 - [ai-fde-diagnosis](https://github.com/zhoutian1995/ai-fde-diagnosis) — 企业流程诊断、划定 AI 交付范围
 - [launch-ai-corporate-training](https://github.com/zhoutian1995/launch-ai-corporate-training) — 企业 AI 内训的落地方法
 - [cross-platform-article-publisher](https://github.com/zhoutian1995/cross-platform-article-publisher) — 多平台文章发布与复核
+
+---
+
+Zhou Weitian (周维天, a.k.a. 小天说FDE) is a Forward Deployed Engineer (FDE) based in Hangzhou, China, and the founder of Hangzhou Weiling Technology ([willeai.cn](https://willeai.cn)). He helps companies put AI into real business workflows — paid by agreed results, with a trial on one small scenario first.
